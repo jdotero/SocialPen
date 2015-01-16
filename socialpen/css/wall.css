@@ -1,0 +1,136 @@
+
+
+body{
+	background-color: #E15B64;
+}
+
+p.author{
+	color: #E15B64;
+	font-size: 130%;
+	font: bold;
+	margin: 0px 0px 0px 5px;
+}
+
+p.like{
+	color:#E15B64;
+	display: block;
+	margin-right: 3px;
+	font-size: 140%;
+	float:right;
+	margin-bottom: 0px;
+}
+.likes{
+	margin: 2px;
+	float:right;
+}
+.relleno{
+	width: auto;
+	height: 100px;
+	background-color: #849B89;
+}
+
+.btnlike{
+
+}
+
+.likeico{
+	margin-top: 2px;
+	float:right;
+}
+
+#footer
+{
+	background-color: green;
+	height: 100px;
+	max-width: 960px;
+}
+
+.post{
+	background-color: white;
+	border: 1px solid #849B89;
+	border-radius: 5px;
+	margin:3px;
+	min-height: 50px;
+}
+
+.post_box{
+	border: 1px solid #849B89;
+	margin: auto;
+	margin-bottom: 17px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 2px #888888;
+	background-color: white;
+	height: auto;
+}
+
+.new_post_text_box{
+	width: 675px;
+	height: 100px;
+	font-size: large;
+	border-radius: 5px;
+	margin: auto;
+	background: transparent;
+	border: 1px solid #E15B64;
+	outline-color: #E15B64;
+
+
+}
+
+
+.post_txt{
+	display: block;
+	width: 667px;
+	margin:auto;
+	margin-top: 5px;
+	margin-bottom: 1px;
+	height: 100px;
+	border-radius: 5px;
+	background: transparent;
+	border: 1px solid #E15B64;
+	outline-color:none;
+}
+
+.cabecera{
+	background-color: white;
+	padding: 0px;
+	max-width: 960px;
+}
+
+.contenido{
+	background-color: white;
+	max-width:  960px;
+}
+
+.contenedor{
+	padding:0px;
+	max-width: 960;
+}
+
+.boxPost{
+	max-width: 960px;
+}
+
+.logoCabecera{
+	width: auto;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.menu{
+	padding: 0px;
+	background-color: white;
+	max-width: 960px;
+}
+
+a#logout{
+	padding: none;
+	margin: none;
+}
+
+.main{
+	max-width: 960px;
+}
+
+.buscador{
+	width: 100%;
+}

@@ -1,0 +1,104 @@
+#registrar
+{
+	
+	position:absolute;
+	left: 10%;
+	right:10%;
+	top: 5%;
+	bottom: 5%;
+	width:920px; 
+	margin-left:0px;  
+	height:auto;  
+	margin-top:5px;
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid #849B89;
+	box-shadow: 10px 10px 5px #888888;
+	
+}
+
+#imagen
+{
+	position:absolute;
+	left: 10px;
+	top:0px;
+}
+
+
+
+#logo
+{
+	z-index: 10;
+	position: absolute;
+	right: 5%;
+	top:15%;
+}
+
+#Formulario_registro
+{
+	position: absolute;
+	top:40%;	
+	right: 10%;
+	height: 300px;
+	width:600px;
+}
+
+#caja3
+{
+	position:absolute;
+	right:0%;
+	top:30%;
+}
+
+#caja4
+{
+	position:absolute;
+	right:0%;
+	top:40%;
+}
+
+#caja
+{
+	
+	position:absolute;
+	right:0%;
+	top:10%;
+}
+
+#caja2
+{
+	position:absolute;
+	right:0%;
+	top:20%;
+}
+
+.boton {
+	-moz-box-shadow:inset 0px 39px 0px -24px #e67a73;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #e67a73;
+	box-shadow:inset 0px 39px 0px -24px #e67a73;
+	background-color:#e4685d;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+	position: absolute;
+	right:0%;
+	width:236px;
+	top:50%;
+
+}
+.boton:hover {
+	background-color:#eb675e;
+}
+.boton:active {
+	position:relative;
+	top:1px;
+}

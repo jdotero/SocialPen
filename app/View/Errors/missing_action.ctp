@@ -1,0 +1,1 @@
+<?php header("Location: ".$this->Html->url(array('controller'=>'posts', 'action'=>'index'))); ?>
